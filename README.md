@@ -31,7 +31,7 @@ Here’s the full flow process:
 
 See this accompanying Document for a visual representation of the flow:
 
-[View Power BI setup document in the Documents and Screenshots repository](https://github.com/therightboat/Trends-at-a-Glance/blob/main/PowerAutomateExample.pdf.md)
+[View Power BI setup document in the Documents and Screenshots repository](https://github.com/therightboat/Trends-at-a-Glance/blob/main/PowerAutomateExample.pdf)
 
 
 
