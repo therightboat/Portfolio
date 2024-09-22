@@ -34,7 +34,7 @@ Showcasing key presentations delivered at internal and external events such as T
 - Process improvement initiatives in support cases and customer interactions.
 
 ## Dashboard Examples (Sent in additional email)
-- **Tools Used**: Power BI
+- **Tools Used**: Power BI, NICE CX Dashboard Integration
 - **Overview**: Examples of dashboards that provide business insights on customer interactions, financial reporting, and workflow efficiency.
 
 For more information, [click here to return to the main README](https://github.com/therightboat).
