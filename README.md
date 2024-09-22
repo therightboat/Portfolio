@@ -16,7 +16,7 @@ This repository showcases various data analysis and visualization projects I've 
 - **Tools Used**: Power BI, Excel, Share Point, Power Automate, Internal Tools such as NICE CX, QBE and Microsoft Dynamics.
 - **Overview**: Analysis of case interaction data to identify hold times, average speed of answer and other key performance indicators to identify customer satisfaction and workflow efficiency based on source.
   
-### [Project 2: *Insert Project Description](./Project_2/README.md) **BROKEN LINK WORKING ON CURRENTLY**
+### [Keeping Organized: The use of Asana to track site projects and One Note for daily business needs](./Project_2/README.md) **BROKEN LINK WORKING ON CURRENTLY**
 - **Tools Used**: SQL, Tableau
 - **Overview**: Analyzed customer data to create segments based on purchasing behavior and demographic information.
 
