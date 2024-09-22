@@ -33,7 +33,7 @@ Showcasing key presentations delivered at internal and external events such as T
 - Cloud and SaaS solutions for local government.
 - Data analysis trends using Power BI and QBE.
 - Process improvement initiatives in support cases and customer interactions.
-- **Problem Solved**: These presentations facilitated the adoption of cloud-based solutions for multiple local government clients, showcasing how Tyler's SaaS solutions could streamline operations. Additionally, the data analysis insights helped clients understand emerging trends, resulting in optimized decision-making processes and improved client satisfaction.
+- **Problem Solved**: These presentations facilitated the adoption of cloud-based & payment solutions for multiple local government clients, showcasing how Tyler's SaaS solutions could streamline operations. Additionally, the data analysis insights helped clients understand emerging trends, resulting in optimized decision-making processes and improved client satisfaction.
 
 ### Dashboard Examples (Sent in additional email)
 - **Tools Used**: Power BI, NICE CX Dashboard Integration
