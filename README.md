@@ -31,8 +31,7 @@ Here’s the full flow process:
 
 See this accompanying Document for a visual representation of the flow:
 
-<a href="https://github.com/therightboat/Trends-at-a-Glance/blob/main/PowerAutomateExample.pdf" target="_blank">View PDF Mock Setup/Workflow Document</a>
-[View the Power Automate Example](https://github.com/therightboat/Trends-at-a-Glance/blob/main/PowerAutomateExample.pdf)
+[View PDF Mock Setup/Workflow Document](https://github.com/therightboat/Trends-at-a-Glance/blob/main/PowerAutomateExample.pdf)
 
 
 
