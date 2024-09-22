@@ -17,7 +17,7 @@ This repository showcases various data analysis and visualization projects I've 
 - **Overview**: Analysis of case interaction data to identify hold times, average speed of answer and other key performance indicators to identify customer satisfaction and workflow efficiency based on source.
   
 ### [Keeping Organized: The use of Asana to track site projects and One Note for daily business needs](./Project_2/README.md) **BROKEN LINK WORKING ON CURRENTLY**
-- **Tools Used**: SQL, Tableau
-- **Overview**: Analyzed customer data to create segments based on purchasing behavior and demographic information.
+- **Tools Used**: Asana, Outlook, Microsoft Products
+- **Overview**: My main source of how I stayed organized personally and organization for mutilple cloud and on-prem go lives per week.
 
 For more information, [click here to return to the main README](https://github.com/therightboat).
