@@ -8,6 +8,7 @@ This repository showcases how I leverage **Microsoft Dynamics** and third-party 
 - **Power Automate**: Automating the export of data whenever a new file is uploaded to SharePoint.
 - **Power BI**: Visualizing trends and producing business insights.
 - **SharePoint**: Storing the incoming data files.
+- **Internal Dashboard Creation**: The use of internal tools to create live dashboards via NICE CX.
 
 ## Key Features:
 - **Monthly and Daily Trends**: View chat vs. phone hold times over time to spot trends and identify patterns.
@@ -36,4 +37,7 @@ See this accompanying Document for a visual representation of the flow:
 [View PDF Example Power BI Results with Internal Infromation Redacted](https://github.com/therightboat/Trends-at-a-Glance/blob/main/PowerBIResultsExample.pdf)
 
 
-## Power Automate:
+## Microsoft Dynamics and Internal NICE CX Dashboards:
+***Please Note***:
+
+I cannot share any of the raw data files or NICE CX dashboards to showcase my dashboard creation and relative analystics in regards to daily, weekly, monthly trends due to the restriction of my current NDA at my current employer. However - I would be more than willing to talk about these in depth via phone call or meeting!
