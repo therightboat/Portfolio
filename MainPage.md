@@ -1,3 +1,5 @@
+[Click here at any time to navigate back to my Portfolio repository](https://github.com/therightboat/portfolio/blob/main/MainPage.md) or [Click here at any time to navigate back to the main GitHub page profile](https://github.com/therightboat/therightboat/blob/main/README.md)
+
 # Trends at a Glance
 
 This repository showcases how I leverage **Microsoft Dynamics** and third-party metric data to track hold times for chats vs. phone calls. By utilizing **Power Automate**, I automate the collection of this data from a SharePoint folder and integrate it into **Power BI** to provide actionable insights on a monthly and daily basis.
