@@ -33,6 +33,7 @@ See this accompanying Document for a visual representation of the flow:
 
 [View PDF Mock Setup/Workflow Document](https://github.com/therightboat/Trends-at-a-Glance/blob/main/PowerAutomateExample.pdf)
 
+[View PDF Example Power BI Results with Internal Infromation Redacted](https://github.com/therightboat/Trends-at-a-Glance/blob/main/PowerBIResultsExample.pdf)
 
 
 ## Power Automate:
