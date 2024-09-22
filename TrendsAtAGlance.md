@@ -38,7 +38,7 @@ See this accompanying Document for a visual representation of the flow:
 
 [View PDF Example Power BI Results with Internal Infromation Redacted](https://github.com/therightboat/Trends-at-a-Glance/blob/main/PowerBIResultsExample.pdf)
 
-
+[View PDF Example Power BI Results with Internal Infromation Redacted - I use this in employee feedback and to help explain customer satisfaction to Shareholders](https://github.com/therightboat/Trends-at-a-Glance/blob/main/SurveyResults.pdf)
 ## Microsoft Dynamics and Internal NICE CX Dashboards:
 ***Please Note***:
 
