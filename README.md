@@ -1,3 +1,5 @@
+[Click here at any time to navigate back to the main GitHub page profile](https://github.com/therightboat/therightboat/blob/main/README.md)
+
 # Data Analytics and Visualization Portfolio
 A collections of various data analysis and visualization using Power BI, QBE internal analysis and a bit of Tableau.
 
