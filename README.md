@@ -10,7 +10,7 @@ This repository showcases various data analysis and visualization projects I've 
 
 ## Projects
 
-### [Trends at a Glance: Integrating Microsoft Dynamics to Power BI using Power Automate](./Project_1/MainPage.md)
+### [Trends at a Glance: Integrating Microsoft Dynamics to Power BI using Power Automate](./Portfolio/TrendsAtAGlance.md)
 - **Tools Used**: Power BI, Excel, Share Point, Power Automate, Internal Tools such as NICE CX, QBE and Microsoft Dynamics.
 - **Overview**: Analysis of case interaction data to identify hold times, average speed of answer and other key performance indicators to identify customer satisfaction and workflow efficiency based on source.
   
