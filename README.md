@@ -26,7 +26,7 @@ This repository showcases various examples of data analysis and visualization pr
 - **Overview**: A project where I utilized SQL to query large data sets and QBE to analyze and reconcile discrepancies for accurate financial reporting.
 - **Problem Solved**: Helped reconcile a data set with over 100,000 entries by identifying duplicate records and mismatches in the data, resulting in an accurate and auditable final report.
 
-## Presentations
+## Presentations (Sent in additional email)
 Showcasing key presentations delivered at internal and external events such as Tyler Connect and various User Groups across the U.S., covering:
 - Cloud and SaaS solutions for local government.
 - Data analysis trends using Power BI and QBE.
