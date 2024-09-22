@@ -18,7 +18,7 @@ This repository showcases various examples of data analysis and visualization pr
 - **Problem Solved**: Resolved inconsistencies in customer wait times by automating data flow from Dynamics to Power BI, allowing us to visualize real-time hold times and improve resource allocation based on insights.
 - **Additional Notes**: I also use this same methodology to represent a weekly Microsoft from to our team members that prompts the appropriate subset of feedback questions for the week using Power Automate and delivers a team message every other Tuesday as a reminder to complete the form to our main teams channel.
   
-### Keeping Organized: The use of Asana to track site projects and One Note for daily business needs
+### Keeping Organized: The use of Asana to track site projects and One Note for daily business needs (Sent in additional email)
 - **Tools Used**: Asana, Outlook, Microsoft Products
 - **Overview**: My main source of how I stayed organized personally and organization for mutilple cloud and on-prem go lives per week.
 
