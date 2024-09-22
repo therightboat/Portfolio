@@ -1,4 +1,4 @@
-[Click here at any time to navigate back to my Portfolio repository](https://github.com/therightboat/portfolio/blob/main/MainPage.md) or [Click here at any time to navigate back to the main GitHub page profile](https://github.com/therightboat/therightboat/blob/main/README.md)
+[Click here at any time to navigate back to my Portfolio repository](https://github.com/therightboat/portfolio/blob/main/README.md) or [Click here at any time to navigate back to the main GitHub page profile](https://github.com/therightboat/therightboat/blob/main/README.md)
 
 # Trends at a Glance
 
