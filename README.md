@@ -16,6 +16,7 @@ This repository showcases various examples of data analysis and visualization pr
 - **Tools Used**: Power BI, Excel, Share Point, Power Automate, Internal Tools such as NICE CX, QBE and Microsoft Dynamics.
 - **Overview**: Analysis of case interaction data to identify hold times, average speed of answer and other key performance indicators to identify customer satisfaction and workflow efficiency based on source.
 - **Problem Solved**: Resolved inconsistencies in customer wait times by automating data flow from Dynamics to Power BI, allowing us to visualize real-time hold times and improve resource allocation based on insights.
+- **Additional Notes**: I also use this same methodology to represent a weekly Microsoft from to our team members that prompts the appropriate subset of feedback questions for the week using Power Automate and delivers a team message every other Tuesday as a reminder to complete the form to our main teams channel.
   
 ### Keeping Organized: The use of Asana to track site projects and One Note for daily business needs
 - **Tools Used**: Asana, Outlook, Microsoft Products
@@ -32,7 +33,7 @@ Showcasing key presentations delivered at internal and external events such as T
 - Data analysis trends using Power BI and QBE.
 - Process improvement initiatives in support cases and customer interactions.
 
-## Dashboard Examples
+## Dashboard Examples (Sent in additional email)
 - **Tools Used**: Power BI
 - **Overview**: Examples of dashboards that provide business insights on customer interactions, financial reporting, and workflow efficiency.
 
